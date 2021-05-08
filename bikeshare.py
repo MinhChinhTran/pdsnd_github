@@ -1,4 +1,7 @@
 # Modify as requested by git project
+""" 
+Modify again as requested by git project 
+"""
 import time
 import pandas as pd
 import numpy as np
@@ -34,6 +37,7 @@ def see_city(see):
 
 def display_raw_data():
     """ Let user see the raw data if they like """
+    
 
     raw=input("Would you like to see the raw data (yes/no) ?").lower().strip()
     while raw not in ['yes','no']:

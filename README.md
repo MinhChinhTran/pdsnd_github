@@ -19,7 +19,7 @@ It's important to give proper credit. Add links to any repo that inspired you or
 https://github.com/MinhChinhTran/pdsnd_github
 
 ### Modify README.md
-It's update this README.md file for first commit
-It's changed README and bikeshare.py for secodn commit
-It's update again this README.md file in documentation branch
-It's update again this README.md file in refactoring branch
+It's update this README.md file for first commit.
+It's changed README and bikeshare.py for secodn commit.
+It's update again this README.md file in documentation branch.
+It's update again this README.md file in refactoring branch.

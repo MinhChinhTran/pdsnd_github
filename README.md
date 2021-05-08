@@ -20,6 +20,10 @@ https://github.com/MinhChinhTran/pdsnd_github
 
 ### Modify README.md
 It's update this README.md file for first commit.
-It's changed README and bikeshare.py for secodn commit.
+It's changed README for second commit.
+It's changed bkieshare.py for second commit.
+docs: add credits to README
 It's update again this README.md file in documentation branch.
+It's update again this bikeshare.py file in documentation branch.
 It's update again this README.md file in refactoring branch.
+It's update again this bikeshare.py file in refactoring branch.

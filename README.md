@@ -1,28 +1,25 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+Date created: 06 MAY 2021
 
 ### Project Title
-Replace the Project Title
+Project: Work on Github for project3
 
 ### Description
-Describe what your project is about and what it does
+
+This project is show how working on version control as working on same project with other team members over internet
 
 ### Files used
-Include the files used
+README
+bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/MinhChinhTran/pdsnd_github
 
 ### Modify README.md
-It's update this README.md file
-
-### Change README.md in secodn time with bikeshare
-It's changed README and bikeshare.py
-
-### Modify again README.md
-It's update again this README.md file
-
-### Change README.md in refactoring branch
+It's update this README.md file for first commit
+It's changed README and bikeshare.py for secodn commit
+It's update again this README.md file in documentation branch
 It's update again this README.md file in refactoring branch
